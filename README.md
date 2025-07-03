@@ -2,7 +2,7 @@
 
 ## 📘 Project Summary
 
-This interactive Excel dashboard was developed as part of a **hands-on, end-to-end tutorial project** focused on building business dashboards using **real-world furniture sales data**. It walks through the entire process—from raw data transformation in **Power Query** to insightful visualizations using **Pivot Tables and Pivot Charts**.
+This interactive Excel dashboard was developed is focused on building business dashboards using **real-world furniture sales data**. It walks through the entire process—from raw data transformation in **Power Query** to insightful visualizations using **Pivot Tables and Pivot Charts**.
 
 ---
 
