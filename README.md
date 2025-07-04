@@ -33,4 +33,47 @@ The dashboard provides a clear, functional overview of sales performance across 
 | **🏙️ Top Cities**           | Best-performing cities ranked by **quantity of orders**                 |
 | **🎛️ Filters**              | Interactive **Region** and **Segment** slicers for focused exploration   |
 
+## 📈 Business Impact: Furniture Sales Performance Dashboard 
+---
+
+## 💼 Overview
+
+The dashboard enables business stakeholders to:
+- Monitor key sales metrics
+- Analyze operational efficiency
+- Identify trends and performance gaps
+- Empower faster, smarter decisions across departments
+
+---
+
+## 🧠 Key Business Impacts
+
+### 1. 📊 Improved Decision-Making
+- Enables **real-time insight** into total sales, profit, and quantity sold
+- Identifies top-performing products, regions, and customer segments
+- Supports **data-driven decisions** across marketing, sales, and operations
+
+---
+
+### 2. 💰 Revenue Optimization
+- Highlights best-selling categories and top cities for targeted growth
+- Uses seasonal sales trends to plan campaigns and optimize inventory
+- Encourages strategic upselling and cross-selling opportunities
+
+---
+
+### 3. ⚙️ Operational Efficiency
+- Analyzes **Shipping Mode** and **Shipping Duration** to:
+  - Reduce delivery times
+  - Minimize logistics costs
+  - Improve fulfillment reliability
+- Leads to **better customer experience** and **cost control**
+
+---
+
+### 4. 🎯 Customer Segmentation Strategy
+- Interactive **Region** and **Segment** filters allow:
+  - Tailored marketing strategies
+  - Personalized customer engagement
+  - Prioritization of high-value segments
 
