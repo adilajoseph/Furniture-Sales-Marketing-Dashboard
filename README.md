@@ -1,4 +1,5 @@
 # Furniture-Sales-Marketing-Dashboard
+This project is an end-to-end interactive dashboard to analyze furniture sales across regions, categories, and time periods
 
 ## 📘 Project Summary
 
